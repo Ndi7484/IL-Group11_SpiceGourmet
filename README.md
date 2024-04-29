@@ -1,5 +1,5 @@
-#Infinite Learning Unity Project
-##_Description_
+# Infinite Learning Unity Project
+## _Description_
 Didalam game, player akan dihadapi dengan challenge menyajikan makanan ke pelanggan ‘secepatnya’ dengan adaptasi platformer based game dan dibatasi dengan timer/waktu setiap level pada game tersebut (objective dari game :  mendapatkan score sebanyak mungkin), dan juga ada menghadapi musuh yang akan menghalangi jalannya player.
 Detail permainan (this game is in 2D game):
 - gunakan (panah) untuk movement/gerak kiri kanan, lompat (atas).
